@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório do curso
 
-Coloquei essa lina agora  pelo GitHub!
+Coloquei essa linha agora  pelo GitHub!
